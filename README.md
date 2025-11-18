@@ -1,7 +1,6 @@
 # Miles Sound System 9.3
 Published by RAD Game Tools (now part of Epic Games)  
 Version: 9.3  
-License: See [`LICENSE.md`](LICENSE.md)  
 Preserved and maintained by Archivo Federal.
 Status: Archived for educational use, preservation, and community support.
 
