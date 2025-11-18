@@ -5,8 +5,6 @@ License: See [`LICENSE.md`](LICENSE.md)
 Preserved and maintained by Archivo Federal.
 Status: Archived for educational use, preservation, and community support.
 
----
-
 ## About Miles Sound System
 
 The **Miles Sound System (MSS)** is one of the most influential audio middleware libraries in the history of PC and console gaming. Originally developed by **John Miles**, then embraced by **RAD Game Tools**, MSS powered audio in thousands of commercial titles across DOS, Windows, PlayStation, Xbox, Dreamcast, GameCube, and more. If you've ever played a game between 1995 and 2010, there's a good chance you've "heard" the work of Miles.
@@ -38,8 +36,6 @@ This repository contains:
 - Legacy drivers and platform-specific headers
 - Metadata and preservation context (added by SIGMA)
 
----
-
 ## Contributing
 
 **Want to help? Get involved!**
@@ -59,9 +55,7 @@ Everyone are welcome, from students and educators to retro developers and audio 
 
 - **Issues** – for questions, bug reports, and discussions  
 - **Pull Requests** – for code, docs, or metadata contributions  
-- **República SIGMA on Discord** – [Join Here](https://sigmaco.org/discord)
-
----
+- **SIGMA on Discord** – [Join Here](https://sigmaco.org/discord)
 
 ## Thanks to our contributors
 
@@ -72,8 +66,16 @@ We would like to sincerely thank:
 - **Preservationists, modders, and archivists** who contributed to reverse engineering, documentation cleanup, and contextual metadata.
 - The broader **retro game development and modding community** for keeping classic titles alive.
 
-## Licensing
+## License
 
-This release is provided **for educational, preservation, and modding purposes only**, RAD Game Tools reserve to itself any licensing, including, but not restricted to, commercial use. Please read [`LICENSE.md`](LICENSE.md) for details.
+This release is provided **for educational, preservation, and modding purposes only**, RAD Game Tools reserve to itself any licensing, including, but not restricted to, commercial use. It is intended for software preservationist to be used as repository to softwares already distributed with Miles. It is here now because Miles is retired as a commercial product, so we are not in conflict with the commercial interests of RAD Game Tools.
 
-It is intended to be used as repository to softwares already distributed with Miles. If you're unsure about permitted uses, contact the maintainers.
+RAD Game Tools reserves exclusively to itself any possibility of relicensing or sublicensing, which actually is not commercial in anyway. This project is published internally under administrative act by SIGMA Technology Group.
+
+Miles Sound System is (c) 1991-2012 RAD Game Tools. Additional contracted effort for maintenance is (c) 2011-2023 SIGMA FEDERATION. All rights reserved; to their respective elaborators and collaborators.
+
+Administrative contact: archivo@sigmaco.org. 
+
+Technical contact: tech@sigmaco.org. 
+
+Legal contact: legal@sigmaco.org.
