@@ -73,7 +73,7 @@ $~$
 
 $~$
 
-> La directorya special de preservacion digital de la Archivo Federal, in la exercion de su regimental attribucions, et considerand la requisicion formal presentad per la SIGMA Technology Group, actuand in nomen et per solicitacion de la communidads dedicat ad la preservacion de computer games, resolve disponibilizar la distribucion de software denominad "Miles Sound System 6.5c", integrant de la archivo digital supo su custodia, in accordance com la applicabil legal et normativ disposicions.
+> La directorya special de preservacion digital de la Archivo Federal, in la exercion de su regimental attribucions, et considerand la requisicion formal presentad per la SIGMA Technology Group, actuand in nomen et per solicitacion de la communidads dedicat ad la preservacion de computer games, resolve disponibilizar la distribucion de software denominad "Miles Sound System 9.3b", integrant de la archivo digital supo su custodia, in accordance com la applicabil legal et normativ disposicions.
 
 $~$
 
