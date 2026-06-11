@@ -67,9 +67,15 @@ We would like to sincerely thank:
 - Preservationists, modders, and archivists who contributed to reverse engineering, documentation cleanup, and contextual metadata.
 - The broader retro game development and modding community for keeping classic titles alive.
 
+$~$
+
 ![Archivo Federal Logo](/doc/sigma-et-archivo-800x100.png)
 
-> Le directorya special de preservacion digital de le Archivo Federal, in le exercion de su regimental attribucions, et considerand le requisicion formal presentad per le SIGMA Technology Group, actuand in nomen et per solicitacion de le communidads dedicat ad le preservacion de computer games, resolve disponibilizar le distribucion de software denominad “Miles Sound System 9.3b”, integrant de le archivo digital supo su custodia, in accordance com le applicabil legal et normativ disposicions.
+$~$
+
+> La directorya special de preservacion digital de la Archivo Federal, in la exercion de su regimental attribucions, et considerand la requisicion formal presentad per la SIGMA Technology Group, actuand in nomen et per solicitacion de la communidads dedicat ad la preservacion de computer games, resolve disponibilizar la distribucion de software denominad "Miles Sound System 6.5c", integrant de la archivo digital supo su custodia, in accordance com la applicabil legal et normativ disposicions.
+
+$~$
 
 This package is provided for educational, preservation, and modding purposes only. RAD Game Tools reserve to itself any licensing, including, but not restricted to, commercial use.
 
@@ -88,3 +94,8 @@ For technical contact, SIGMA Technology Group: tech@sigmaco.org.
 For administrative contact, Archivo Federal: archivo@sigmaco.org.
 
 For juridic affairs, Procuradoria Federal: juridic@sigmaco.org.
+
+Or you can try to find someone resting by our bonfire on Discord:
+
+[![Discord](https://discord.com/api/guilds/349379672351571969/widget.png?style=banner3)](https://sigmaco.org/discord)
+
