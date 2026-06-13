@@ -89,13 +89,15 @@ RAD Game Tools still reserves exclusively to itself any possibility of relicensi
 
 Miles Sound System is (c) 1991-2012 RAD Game Tools. Any additional effort for maintenance is (c) 2011-2017 SIGMA FEDERATION. All rights reserved; to their respective elaborators and collaborators.
 
-For technical contact, SIGMA Technology Group: tech@sigmaco.org.
-
-For administrative contact, Archivo Federal: archivo@sigmaco.org.
+[![DMCA Compliance information for sigmaco.org](https://www.dmca.com/img/dmca-compliant-white-bg.png)](https://www.dmca.com/compliance/sigmaco.org)
 
 For juridic affairs, Procuradoria Federal: juridic@sigmaco.org.
 
+For administrative contact, Archivo Federal: archivo@sigmaco.org.
+
+For technical contact, SIGMA Technology Group: tech@sigmaco.org.
+
 Or you can try to find someone resting by our bonfire on Discord:
 
-[![Discord](https://discord.com/api/guilds/349379672351571969/widget.png?style=banner3)](https://sigmaco.org/discord)
+[![Discord](https://discord.com/api/guilds/349379672351571969/widget.png?style=banner3&0)](https://sigmaco.org/discord)
 
